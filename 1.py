@@ -7,5 +7,7 @@ def subtraction(n1, n2):
 
 def summation(n1, n2):
 	return n1 + n2
+def test:
+	print("aom")
 
 cal(int(input()), int(input()))
