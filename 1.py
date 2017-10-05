@@ -8,4 +8,7 @@ def subtraction(n1, n2):
 def summation(n1, n2):
 	return n1 + n2
 
+def test():
+	print('parn')
+
 cal(int(input()), int(input()))
