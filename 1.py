@@ -10,4 +10,7 @@ def summation(n1, n2):
 def test:
 	print("aom")
 
+def test():
+	print('parn')
+
 cal(int(input()), int(input()))
